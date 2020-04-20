@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactGitPage/static/css/main.cecf8dc3.chunk.css",
+    "main.js": "/reactGitPage/static/js/main.bb3b5e59.chunk.js",
+    "main.js.map": "/reactGitPage/static/js/main.bb3b5e59.chunk.js.map",
+    "runtime-main.js": "/reactGitPage/static/js/runtime-main.53f4b39d.js",
+    "runtime-main.js.map": "/reactGitPage/static/js/runtime-main.53f4b39d.js.map",
+    "static/js/2.87aa1730.chunk.js": "/reactGitPage/static/js/2.87aa1730.chunk.js",
+    "static/js/2.87aa1730.chunk.js.map": "/reactGitPage/static/js/2.87aa1730.chunk.js.map",
+    "index.html": "/reactGitPage/index.html",
+    "precache-manifest.63c1cff18dfdb2cf4e83b73d2a93b5c6.js": "/reactGitPage/precache-manifest.63c1cff18dfdb2cf4e83b73d2a93b5c6.js",
+    "service-worker.js": "/reactGitPage/service-worker.js",
+    "static/css/main.cecf8dc3.chunk.css.map": "/reactGitPage/static/css/main.cecf8dc3.chunk.css.map",
+    "static/js/2.87aa1730.chunk.js.LICENSE.txt": "/reactGitPage/static/js/2.87aa1730.chunk.js.LICENSE.txt",
+    "static/js/main.bb3b5e59.chunk.js.LICENSE.txt": "/reactGitPage/static/js/main.bb3b5e59.chunk.js.LICENSE.txt",
+    "static/media/anime3.png": "/reactGitPage/static/media/anime3.bd6820f1.png",
+    "static/media/emilyz.jpg": "/reactGitPage/static/media/emilyz.9fcf69e5.jpg",
+    "static/media/nucleo-icons.css": "/reactGitPage/static/media/nucleo.f0b489a5.woff",
+    "static/media/react-logo.png": "/reactGitPage/static/media/react-logo.eb6be414.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53f4b39d.js",
+    "static/js/2.87aa1730.chunk.js",
+    "static/css/main.cecf8dc3.chunk.css",
+    "static/js/main.bb3b5e59.chunk.js"
+  ]
+}
